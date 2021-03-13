@@ -1,0 +1,2 @@
+# recetashuga.github.io
+StaticSite
